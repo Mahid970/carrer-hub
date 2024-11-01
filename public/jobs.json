@@ -1,0 +1,230 @@
+[
+  {
+    "id": 101,
+    "logo": "https://i.ibb.co.com/Mcmt1vW/google.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "As a Technical Database Engineer, you will oversee database architecture, ensuring high availability and security. You will handle both complex data solutions and optimization for efficient access and analysis, playing a crucial role in developing a robust data infrastructure.",
+    "job_responsibility": "Collaborate with cross-functional teams to maintain database reliability. Design and execute data migrations, security updates, and scalability measures.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years of experience in database management.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 102,
+    "logo": "https://i.ibb.co.com/61WWycL/amazon-logo-on-transparent-background-free-vector.jpg",
+    "job_title": "Frontend Developer",
+    "company_name": "Amazon",
+    "remote_or_onsite": "Onsite",
+    "location": "Seattle, USA",
+    "job_type": "Full Time",
+    "salary": "120k-160k",
+    "job_description": "As a Frontend Developer, you will transform design concepts into functional, dynamic user interfaces. Your role involves creating high-quality, maintainable code to enhance web applications' performance and user engagement.",
+    "job_responsibility": "Build and maintain frontend components using JavaScript frameworks. Collaborate with backend teams to integrate services, ensuring a seamless user experience.",
+    "educational_requirements": "Bachelor's degree in Computer Science.",
+    "experiences": "2-4 years in frontend development.",
+    "contact_information": {
+      "phone": "01850-11 11 11",
+      "email": "hr@amazon.com",
+      "address": "Amazon HQ, Seattle, WA, USA"
+    }
+  },
+  {
+    "id": 103,
+    "logo": "https://i.ibb.co/PzrbTxh/microsoft.png",
+    "job_title": "Cloud Solutions Architect",
+    "company_name": "Microsoft",
+    "remote_or_onsite": "Remote",
+    "location": "Toronto, Canada",
+    "job_type": "Full Time",
+    "salary": "130k-170k",
+    "job_description": "As a Cloud Solutions Architect, you will lead cloud design and deployment for enterprise solutions. Your role requires strategic planning, ensuring cloud environments are secure, scalable, and cost-effective.",
+    "job_responsibility": "Guide clients in deploying cloud architecture that aligns with business needs. Develop custom cloud strategies, optimizing infrastructure for scalability.",
+    "educational_requirements": "Bachelor's degree in Engineering or related field.",
+    "experiences": "5+ years of cloud solutions experience.",
+    "contact_information": {
+      "phone": "01760-22 22 22",
+      "email": "info@microsoft.com",
+      "address": "Microsoft Building, Toronto, Canada"
+    }
+  },
+  {
+    "id": 104,
+    "logo": "https://i.ibb.co/PzrbTxh/meta.png",
+    "job_title": "Data Scientist",
+    "company_name": "Meta",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, USA",
+    "job_type": "Contract",
+    "salary": "90k-140k",
+    "job_description": "In this Data Scientist role, you will analyze user behavior and provide insights to enhance products. You’ll implement data models and support data-driven decision-making across departments.",
+    "job_responsibility": "Develop machine learning models to extract actionable insights. Collaborate with product teams to inform strategic initiatives.",
+    "educational_requirements": "Master's degree in Data Science or related field.",
+    "experiences": "3+ years in data science.",
+    "contact_information": {
+      "phone": "01950-33 33 33",
+      "email": "jobs@meta.com",
+      "address": "Meta HQ, Menlo Park, CA, USA"
+    }
+  },
+  {
+    "id": 105,
+    "logo": "https://i.ibb.co.com/Nn2pVhJ/download.png",
+    "job_title": "iOS Developer",
+    "company_name": "Apple",
+    "remote_or_onsite": "Onsite",
+    "location": "Cupertino, USA",
+    "job_type": "Full Time",
+    "salary": "110k-150k",
+    "job_description": "As an iOS Developer, you’ll develop and maintain applications for Apple devices. You will ensure apps meet Apple's performance standards and work closely with designers for a cohesive experience.",
+    "job_responsibility": "Develop high-performance iOS applications using Swift. Work with design teams to incorporate feedback and improve user experience.",
+    "educational_requirements": "Bachelor's degree in Software Engineering.",
+    "experiences": "4+ years in iOS development.",
+    "contact_information": {
+      "phone": "01860-44 44 44",
+      "email": "iosjobs@apple.com",
+      "address": "Apple Park, Cupertino, CA, USA"
+    }
+  },
+  {
+    "id": 106,
+    "logo": "https://i.ibb.co/PzrbTxh/tesla.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "location": "Austin, USA",
+    "job_type": "Part Time",
+    "salary": "80k-120k",
+    "job_description": "As a Software Engineer, you'll contribute to Tesla’s software infrastructure. Your primary focus will be on developing software that supports Tesla’s automotive technologies.",
+    "job_responsibility": "Develop software applications for Tesla’s automotive platform. Collaborate with hardware teams for seamless integration.",
+    "educational_requirements": "Bachelor's degree in Computer Science.",
+    "experiences": "3+ years in software engineering.",
+    "contact_information": {
+      "phone": "01770-55 55 55",
+      "email": "careers@tesla.com",
+      "address": "Tesla Factory, Austin, TX, USA"
+    }
+  },
+  {
+    "id": 107,
+    "logo": "https://i.ibb.co/PzrbTxh/facebook.png",
+    "job_title": "Backend Developer",
+    "company_name": "Facebook",
+    "remote_or_onsite": "Onsite",
+    "location": "New York, USA",
+    "job_type": "Full Time",
+    "salary": "100k-140k",
+    "job_description": "As a Backend Developer, you will work on building scalable backend APIs and systems to support high-traffic applications. You will work closely with frontend and data teams.",
+    "job_responsibility": "Develop and maintain backend services and RESTful APIs. Optimize code for performance and scalability.",
+    "educational_requirements": "Bachelor's degree in Computer Engineering.",
+    "experiences": "3+ years in backend development.",
+    "contact_information": {
+      "phone": "01960-66 66 66",
+      "email": "recruiting@facebook.com",
+      "address": "Facebook NY, New York, USA"
+    }
+  },
+  {
+    "id": 108,
+    "logo": "https://i.ibb.co/PzrbTxh/nvidia.png",
+    "job_title": "Machine Learning Engineer",
+    "company_name": "NVIDIA",
+    "remote_or_onsite": "Remote",
+    "location": "Vancouver, Canada",
+    "job_type": "Contract",
+    "salary": "130k-180k",
+    "job_description": "As a Machine Learning Engineer, you will develop models and algorithms for NVIDIA’s product lines. You’ll optimize machine learning solutions for high-performance applications.",
+    "job_responsibility": "Develop, train, and optimize machine learning models. Collaborate with product teams to implement AI solutions.",
+    "educational_requirements": "Master's degree in AI or ML.",
+    "experiences": "5+ years in machine learning.",
+    "contact_information": {
+      "phone": "01780-77 77 77",
+      "email": "jobs@nvidia.com",
+      "address": "NVIDIA Vancouver, Canada"
+    }
+  },
+  {
+    "id": 109,
+    "logo": "https://i.ibb.co.com/gS3S9vJ/logo-hero.png",
+    "job_title": "Product Manager",
+    "company_name": "LinkedIn",
+    "remote_or_onsite": "Remote",
+    "location": "Mumbai, India",
+    "job_type": "Full Time",
+    "salary": "90k-130k",
+    "job_description": "As a Product Manager, you will drive the vision and strategy for LinkedIn’s products, working with cross-functional teams to deliver innovative solutions.",
+    "job_responsibility": "Define product features and prioritize development cycles. Conduct market research to align product with user needs.",
+    "educational_requirements": "Bachelor's degree in Business Administration.",
+    "experiences": "4+ years in product management.",
+    "contact_information": {
+      "phone": "01670-88 88 88",
+      "email": "careers@linkedin.com",
+      "address": "LinkedIn Office, Mumbai, India"
+    }
+  },
+  {
+    "id": 110,
+    "logo": "https://i.ibb.co.com/wwNPvtG/IBM-Logo-Design-1972-present.webp",
+    "job_title": "Cybersecurity Analyst",
+    "company_name": "IBM",
+    "remote_or_onsite": "Onsite",
+    "location": "London, UK",
+    "job_type": "Full Time",
+    "salary": "110k-140k",
+    "job_description": "As a Cybersecurity Analyst, you’ll monitor and protect IBM’s networks from unauthorized access and threats. You’ll analyze incidents and provide rapid response solutions.",
+    "job_responsibility": "Monitor network activity for potential security breaches. Develop security protocols and improve incident response times.",
+    "educational_requirements": "Bachelor's degree in Cybersecurity.",
+    "experiences": "3+ years in cybersecurity.",
+    "contact_information": {
+      "phone": "01560-99 99 99",
+      "email": "security@ibm.com",
+      "address": "IBM London, UK"
+    }
+  },
+  {
+    "id": 111,
+    "logo": "https://i.ibb.co/PzrbTxh/paypal.png",
+    "job_title": "Financial Analyst",
+    "company_name": "PayPal",
+    "remote_or_onsite": "Remote",
+    "location": "Paris, France",
+    "job_type": "Contract",
+    "salary": "70k-110k",
+    "job_description": "As a Financial Analyst, you will assess financial data to support PayPal’s business strategy. You’ll create forecasts, analyze trends, and prepare reports for decision-making.",
+    "job_responsibility": "Conduct financial forecasting and modeling. Prepare financial reports to assist in business decisions.",
+    "educational_requirements": "Bachelor's degree in Finance.",
+    "experiences": "3+ years in financial analysis.",
+    "contact_information": {
+      "phone": "01440-00 00 00",
+      "email": "finance@paypal.com",
+      "address": "PayPal Office, Paris, France"
+    }
+  },
+  {
+    "id": 112,
+    "logo": "https://i.ibb.co/PzrbTxh/uber.png",
+    "job_title": "Operations Manager",
+    "company_name": "Uber",
+    "remote_or_onsite": "Onsite",
+    "location": "Berlin, Germany",
+    "job_type": "Full Time",
+    "salary": "80k-120k",
+    "job_description": "As an Operations Manager, you will ensure efficient operations of Uber’s logistics. You will manage daily workflows and improve operational performance across the region.",
+    "job_responsibility": "Optimize operational processes for efficiency. Manage teams and ensure smooth logistics operations.",
+    "educational_requirements": "Bachelor's degree in Operations Management.",
+    "experiences": "5+ years in operations management.",
+    "contact_information": {
+      "phone": "01230-11 11 11",
+      "email": "operations@uber.com",
+      "address": "Uber HQ, Berlin, Germany"
+    }
+  }
+]
