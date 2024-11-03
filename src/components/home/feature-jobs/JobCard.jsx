@@ -3,8 +3,10 @@ import { FaLocationDot } from "react-icons/fa6";
 import { FaArrowRight } from "react-icons/fa";
 import { RiMoneyDollarCircleFill } from "react-icons/ri";
 import TypeButton from "../../../utils/buttons/TypeButton";
+import { Link } from "react-router-dom";
 const JobCard = ({ job }) => {
   const {
+    id,
     logo,
     job_title,
     company_name,
@@ -36,25 +38,27 @@ const JobCard = ({ job }) => {
           </p>
         </div>
 
-        <button
-          className="text-xl mt-4 flex items-center relative bottom-2 w-40 h-12 rounded 
+        <Link to={`/jobs/${id}`}>
+          <button
+            className="text-xl mt-4 flex items-center relative bottom-2 w-40 h-12 rounded 
         bg-blue-500 text-white overflow-hidden group z-10 hover:text-white 
         duration-1000"
-        >
-          <span
-            className="absolute bg-blue-600 w-44 h-36 rounded-full 
+          >
+            <span
+              className="absolute bg-blue-600 w-44 h-36 rounded-full 
           group-hover:scale-100 scale-0 -z-10 -left-2 -top-10 group-hover:duration-500 
           duration-700 origin-center transform transition-all"
-          ></span>
-          <span
-            className="absolute   bg-blue-800 w-44 h-36 -left-2 -top-10
+            ></span>
+            <span
+              className="absolute   bg-blue-800 w-44 h-36 -left-2 -top-10
            rounded-full group-hover:scale-100 scale-0 -z-10 group-hover:duration-700 
            duration-500 origin-center transform transition-all"
-          ></span>
-          <span className=" flex items-center gap-2 mx-auto ">
-            See More <FaArrowRight></FaArrowRight>
-          </span>
-        </button>
+            ></span>
+            <span className=" flex items-center gap-2 mx-auto ">
+              See More <FaArrowRight></FaArrowRight>
+            </span>
+          </button>
+        </Link>
       </div>
     </div>
   );
