@@ -1,5 +1,8 @@
 import { useLoaderData, useParams } from "react-router-dom";
 import { BsFillSendFill } from "react-icons/bs";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import { saveItemsToLovalStorage } from "../../../utils/createLocalStorage";
 
 const JobDetails = () => {
   const jobs = useLoaderData();
@@ -8,12 +11,7 @@ const JobDetails = () => {
   console.log(routId);
   const {
     id,
-    logo,
     job_title,
-    company_name,
-    remote_or_onsite,
-    location,
-    job_type,
     salary,
     job_description,
     job_responsibility,
@@ -23,6 +21,10 @@ const JobDetails = () => {
   } = job;
   const { email, phone, address } = contact_information;
 
+  const handleApply = () => {
+    saveItemsToLovalStorage(id);
+    toast("You have applied successfuly");
+  };
   return (
     <div>
       <div className="bg-[url('/src/assets/images/bg1.png')] bg-no-repeat -mx-16 ">
@@ -83,9 +85,13 @@ const JobDetails = () => {
             </div>
           </div>
 
-          <button className="flex w-full gap-2 justify-center items-center bg-blue-500  mt-4 px-4 py-2 cursor-pointer text-white font-semibold tracking-widest rounded-md hover:bg-blue-700 duration-300 hover:gap-2 hover:translate-x-3">
+          <button
+            onClick={handleApply}
+            className="flex w-full gap-2 justify-center items-center bg-blue-500  mt-4 px-4 py-2 cursor-pointer text-white font-semibold tracking-widest rounded-md hover:bg-blue-700 duration-300 hover:gap-2 hover:translate-x-3"
+          >
             Apply Now <BsFillSendFill />
           </button>
+          <ToastContainer />
         </div>
       </div>
     </div>
